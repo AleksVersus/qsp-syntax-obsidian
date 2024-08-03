@@ -8,7 +8,7 @@ Stand this plugin into your Obsidian storage:
 
 1. Find folder `.obsidian` into you Obsidian storage folder.
 2. Go to folder `plugins`
-3. Extract folder `qsp-syntax-obsidian` from arch of this realese.
+3. Extract folder `qsp-syntax-obsidian` from [arch](https://github.com/AleksVersus/qsp-syntax-obsidian/releases) of this realese.
 4. Load or reload Obsidian
 5. Prove syntax work by this fragment:
 
