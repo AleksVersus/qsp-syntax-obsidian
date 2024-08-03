@@ -1,8 +1,13 @@
-/*
+/* Light mode stilization */
 
-This CSS file will be included with your plugin, and
-available in the app when your plugin is enabled.
+.cm-sys-variable {
+    color: #ff0000;
+}
 
-If your plugin does not need CSS, delete this file.
 
-*/
+.cm-start-location {
+	font-weight: bold;
+}
+.cm-end-location {
+	font-weight: bold;
+}
