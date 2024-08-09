@@ -519,6 +519,33 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1639,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAD/BAAAIyBRU1Atc3ludGF4IEhpZ2hMZ2h0aW5nIGZvciBPYnNpZGlhbgo8IS0tIGh0dHBzOi8vZG9jcy5vYnNpZGlhbi5tZC9QbHVnaW5zL0dldHRpbmcrc3RhcnRlZC9CdWlsZCthK3BsdWdpbiAtLT4KClRoaXMgcGx1Z2luIGJhc2VkIG9uIGZvcmsgb2YgW3NhbXBsZSBwbHVnaW5dKGh0dHBzOi8vZ2l0aHViLmNvbS9vYnNpZGlhbm1kL29ic2lkaWFuLXNhbXBsZS1wbHVnaW4pIGZvciBbT2JzaWRpYW5dKGh0dHBzOi8vb2JzaWRpYW4ubWQpIGFuZCBbbGVhbi1zeW50YXgtaGlnaGxpZ2h0Cl0oaHR0cHM6Ly9naXRodWIuY29tL3RvbWF6MTUwMi9sZWFuLXN5bnRheC1oaWdobGlnaHQvdHJlZS9tYWluP3RhYj1yZWFkbWUtb3YtZmlsZSkgYnkgdG9tYXoxNTAyLgoKU3RhbmQgdGhpcyBwbHVnaW4gaW50byB5b3VyIE9ic2lkaWFuIHN0b3JhZ2U6CgoxLiBGaW5kIGZvbGRlciBgLm9ic2lkaWFuYCBpbnRvIHlvdSBPYnNpZGlhbiBzdG9yYWdlIGZvbGRlci4KMi4gR28gdG8gZm9sZGVyIGBwbHVnaW5zYAozLiBFeHRyYWN0IGZvbGRlciBgcXNwLXN5bnRheC1vYnNpZGlhbmAgZnJvbSBhcmNoIG9mIHRoaXMgcmVhbGVzZS4KNC4gTG9hZCBvciByZWxvYWQgT2JzaWRpYW4KNS4gUHJvdmUgc3ludGF4IHdvcmsgYnkgdGhpcyBmcmFnbWVudDoKCmBgYGAKYGBgcXNwCmxvY2FsICR0b3BfdGV4dCA9ICRhcmdzWzBdICYgISB0ZXh0IGZyb20gdG9wCmxvY2FsICRjb21tYW5kID0gJGlpZigkYXJnc1sxXTw+IiIsICRhcmdzWzFdLCAiKnBsIikgJiAhIGNvbW1hbmQgZm9yIHByaW50IHRleHQKbG9jYWwgJHNjcmVlbiA9ICRtaWQoJGFyZ3NbMV0sIDEsIDEpICYgISBmaXJzdCBzeW1ib2wgZnJvbSBjb21tYW5kCmxvY2FsICR0ZXh0ID0gIiIKaWYgJHNjcmVlbj0iKiI6CgkhIGlmIGZpc3Qgc3ltYm9sIGlzICoKCSEgbWFpbiBkZXNjcmlwdGlvbiB3b25kb3cKCSR0ZXh0PSRtYWludHh0CmVsc2UKCSEgYWRkaXRpb24gZGVzY3JpcHRpb24gd2luZG93CgkkdGV4dD0kc3RhdHR4dAplbmQKISB1c2UgZHluYW1pYyBmb3IgcnVuIGNvbW1hbmQ6CmR5bmFtaWMgIgoJPDwkc2NyZWVuPj5jbHIKCTw8JGNvbW1hbmQ+PiAkYXJnc1swXQoJPDwkc2NyZWVuPj5wICRhcmdzWzFdCiIsICR0b3BfdGV4dCwgJHRleHQKYGBgCmBgYGAKCi0gYXNrIG1lOiBhbGVrc3ZlcnN1c0BtYWlsLnJ1Ci0gIlN1YnNjcmliZSBteSBib29zdHkiOiAiaHR0cHM6Ly9ib29zdHkudG8vYWxla3N2ZXJzdXMiLAotICJEb25hdGUiOiAiaHR0cHM6Ly93d3cuZG9uYXRpb25hbGVydHMuY29tL3IvYWxla3N2ZXJzdXMiCgAAAAAAAAAAPgUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdAEAAAAAAABqBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAA+BQAAIyBRU1Atc3ludGF4IEhpZ2hMZ2h0aW5nIGZvciBPYnNpZGlhbgo8IS0tIGh0dHBzOi8vZG9jcy5vYnNpZGlhbi5tZC9QbHVnaW5zL0dldHRpbmcrc3RhcnRlZC9CdWlsZCthK3BsdWdpbiAtLT4KClRoaXMgcGx1Z2luIGJhc2VkIG9uIGZvcmsgb2YgW3NhbXBsZSBwbHVnaW5dKGh0dHBzOi8vZ2l0aHViLmNvbS9vYnNpZGlhbm1kL29ic2lkaWFuLXNhbXBsZS1wbHVnaW4pIGZvciBbT2JzaWRpYW5dKGh0dHBzOi8vb2JzaWRpYW4ubWQpIGFuZCBbbGVhbi1zeW50YXgtaGlnaGxpZ2h0Cl0oaHR0cHM6Ly9naXRodWIuY29tL3RvbWF6MTUwMi9sZWFuLXN5bnRheC1oaWdobGlnaHQvdHJlZS9tYWluP3RhYj1yZWFkbWUtb3YtZmlsZSkgYnkgdG9tYXoxNTAyLgoKU3RhbmQgdGhpcyBwbHVnaW4gaW50byB5b3VyIE9ic2lkaWFuIHN0b3JhZ2U6CgoxLiBGaW5kIGZvbGRlciBgLm9ic2lkaWFuYCBpbnRvIHlvdSBPYnNpZGlhbiBzdG9yYWdlIGZvbGRlci4KMi4gR28gdG8gZm9sZGVyIGBwbHVnaW5zYAozLiBFeHRyYWN0IGZvbGRlciBgcXNwLXN5bnRheC1vYnNpZGlhbmAgZnJvbSBbYXJjaF0oaHR0cHM6Ly9naXRodWIuY29tL0FsZWtzVmVyc3VzL3FzcC1zeW50YXgtb2JzaWRpYW4vcmVsZWFzZXMpIG9mIHRoaXMgcmVhbGVzZS4KNC4gTG9hZCBvciByZWxvYWQgT2JzaWRpYW4KNS4gUHJvdmUgc3ludGF4IHdvcmsgYnkgdGhpcyBmcmFnbWVudDoKCmBgYGAKYGBgcXNwCmxvY2FsICR0b3BfdGV4dCA9ICRhcmdzWzBdICYgISB0ZXh0IGZyb20gdG9wCmxvY2FsICRjb21tYW5kID0gJGlpZigkYXJnc1sxXTw+IiIsICRhcmdzWzFdLCAiKnBsIikgJiAhIGNvbW1hbmQgZm9yIHByaW50IHRleHQKbG9jYWwgJHNjcmVlbiA9ICRtaWQoJGFyZ3NbMV0sIDEsIDEpICYgISBmaXJzdCBzeW1ib2wgZnJvbSBjb21tYW5kCmxvY2FsICR0ZXh0ID0gIiIKaWYgJHNjcmVlbj0iKiI6CgkhIGlmIGZpc3Qgc3ltYm9sIGlzICoKCSEgbWFpbiBkZXNjcmlwdGlvbiB3b25kb3cKCSR0ZXh0PSRtYWludHh0CmVsc2UKCSEgYWRkaXRpb24gZGVzY3JpcHRpb24gd2luZG93CgkkdGV4dD0kc3RhdHR4dAplbmQKISB1c2UgZHluYW1pYyBmb3IgcnVuIGNvbW1hbmQ6CmR5bmFtaWMgIgoJPDwkc2NyZWVuPj5jbHIKCTw8JGNvbW1hbmQ+PiAkYXJnc1swXQoJPDwkc2NyZWVuPj5wICRhcmdzWzFdCiIsICR0b3BfdGV4dCwgJHRleHQKYGBgCmBgYGAKCi0gYXNrIG1lOiBhbGVrc3ZlcnN1c0BtYWlsLnJ1Ci0gIlN1YnNjcmliZSBteSBib29zdHkiOiAiaHR0cHM6Ly9ib29zdHkudG8vYWxla3N2ZXJzdXMiLAotICJEb25hdGUiOiAiaHR0cHM6Ly93d3cuZG9uYXRpb25hbGVydHMuY29tL3IvYWxla3N2ZXJzdXMiCgAAAAAAAAAAZwYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdAEAAAAAAABqBAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -730,6 +757,38 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1639,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								372,
+								1130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
