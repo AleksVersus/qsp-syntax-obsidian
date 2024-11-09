@@ -1,14 +1,15 @@
 # QSP-syntax HighLghting for Obsidian
-<!-- https://docs.obsidian.md/Plugins/Getting+started/Build+a+plugin -->
 
-This plugin based on fork of [sample plugin](https://github.com/obsidianmd/obsidian-sample-plugin) for [Obsidian](https://obsidian.md) and [lean-syntax-highlight
-](https://github.com/tomaz1502/lean-syntax-highlight/tree/main?tab=readme-ov-file) by tomaz1502.
+English | [Русский](README_RU.md)
+
+This plugin based on fork of [sample plugin](https://github.com/obsidianmd/obsidian-sample-plugin) for [Obsidian](https://obsidian.md) and [obsidian-svelte-syntax-highlighter
+](https://github.com/typhoon-kim/obsidian-svelte-syntax-highlighter) by Typhoon Kim.
 
 Stand this plugin into your Obsidian storage:
 
 1. Find folder `.obsidian` into you Obsidian storage folder.
 2. Go to folder `plugins`
-3. Extract folder `qsp-syntax-obsidian` from [arch](https://github.com/AleksVersus/qsp-syntax-obsidian/releases) of this realese.
+3. Extract folder `qsp-syntax-obsidian` from arch of [this realese](https://github.com/AleksVersus/qsp-syntax-obsidian/releases).
 4. Load or reload Obsidian
 5. In Obsidian, open **Settings**.
 6. In the side menu, select **Community plugins**.
@@ -44,3 +45,5 @@ if syntax don't work, reload page, or type text in codeblock.
 - ask me: aleksversus@mail.ru
 - "Subscribe my boosty": "https://boosty.to/aleksversus",
 - "Donate": "https://www.donationalerts.com/r/aleksversus"
+
+Big thanks for Typhoon Kim! Go to [his page](https://github.com/typhoon-kim/obsidian-svelte-syntax-highlighter) and donate money to him!!! 
