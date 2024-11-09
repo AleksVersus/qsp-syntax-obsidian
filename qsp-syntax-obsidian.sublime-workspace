@@ -520,31 +520,37 @@
 	"buffers":
 	[
 		{
-			"file": "README.md",
+			"file": "/D/my/projects/github/obsidian-qsp-syntax-highlighter/.github/workflows/release.yml",
+			"redo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "20"
+					},
+					"AwAAAAEBAAAAAAAAAQEAAAAAAAABAAAAMAEBAAAAAAAAAwEAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAEAAAAy",
+					"AQAAAAAAAAABAAAAAgEAAAAAAAACAQAAAAAAAAAAAAAAAPC/"
+				]
+			],
 			"settings":
 			{
-				"buffer_size": 1639,
+				"buffer_size": 624,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			},
 			"undo_stack":
 			[
-				[
-					4,
-					1,
-					"revert",
-					null,
-					"AgAAAAAAAAAAAAAAAAAAAAAAAAD/BAAAIyBRU1Atc3ludGF4IEhpZ2hMZ2h0aW5nIGZvciBPYnNpZGlhbgo8IS0tIGh0dHBzOi8vZG9jcy5vYnNpZGlhbi5tZC9QbHVnaW5zL0dldHRpbmcrc3RhcnRlZC9CdWlsZCthK3BsdWdpbiAtLT4KClRoaXMgcGx1Z2luIGJhc2VkIG9uIGZvcmsgb2YgW3NhbXBsZSBwbHVnaW5dKGh0dHBzOi8vZ2l0aHViLmNvbS9vYnNpZGlhbm1kL29ic2lkaWFuLXNhbXBsZS1wbHVnaW4pIGZvciBbT2JzaWRpYW5dKGh0dHBzOi8vb2JzaWRpYW4ubWQpIGFuZCBbbGVhbi1zeW50YXgtaGlnaGxpZ2h0Cl0oaHR0cHM6Ly9naXRodWIuY29tL3RvbWF6MTUwMi9sZWFuLXN5bnRheC1oaWdobGlnaHQvdHJlZS9tYWluP3RhYj1yZWFkbWUtb3YtZmlsZSkgYnkgdG9tYXoxNTAyLgoKU3RhbmQgdGhpcyBwbHVnaW4gaW50byB5b3VyIE9ic2lkaWFuIHN0b3JhZ2U6CgoxLiBGaW5kIGZvbGRlciBgLm9ic2lkaWFuYCBpbnRvIHlvdSBPYnNpZGlhbiBzdG9yYWdlIGZvbGRlci4KMi4gR28gdG8gZm9sZGVyIGBwbHVnaW5zYAozLiBFeHRyYWN0IGZvbGRlciBgcXNwLXN5bnRheC1vYnNpZGlhbmAgZnJvbSBhcmNoIG9mIHRoaXMgcmVhbGVzZS4KNC4gTG9hZCBvciByZWxvYWQgT2JzaWRpYW4KNS4gUHJvdmUgc3ludGF4IHdvcmsgYnkgdGhpcyBmcmFnbWVudDoKCmBgYGAKYGBgcXNwCmxvY2FsICR0b3BfdGV4dCA9ICRhcmdzWzBdICYgISB0ZXh0IGZyb20gdG9wCmxvY2FsICRjb21tYW5kID0gJGlpZigkYXJnc1sxXTw+IiIsICRhcmdzWzFdLCAiKnBsIikgJiAhIGNvbW1hbmQgZm9yIHByaW50IHRleHQKbG9jYWwgJHNjcmVlbiA9ICRtaWQoJGFyZ3NbMV0sIDEsIDEpICYgISBmaXJzdCBzeW1ib2wgZnJvbSBjb21tYW5kCmxvY2FsICR0ZXh0ID0gIiIKaWYgJHNjcmVlbj0iKiI6CgkhIGlmIGZpc3Qgc3ltYm9sIGlzICoKCSEgbWFpbiBkZXNjcmlwdGlvbiB3b25kb3cKCSR0ZXh0PSRtYWludHh0CmVsc2UKCSEgYWRkaXRpb24gZGVzY3JpcHRpb24gd2luZG93CgkkdGV4dD0kc3RhdHR4dAplbmQKISB1c2UgZHluYW1pYyBmb3IgcnVuIGNvbW1hbmQ6CmR5bmFtaWMgIgoJPDwkc2NyZWVuPj5jbHIKCTw8JGNvbW1hbmQ+PiAkYXJnc1swXQoJPDwkc2NyZWVuPj5wICRhcmdzWzFdCiIsICR0b3BfdGV4dCwgJHRleHQKYGBgCmBgYGAKCi0gYXNrIG1lOiBhbGVrc3ZlcnN1c0BtYWlsLnJ1Ci0gIlN1YnNjcmliZSBteSBib29zdHkiOiAiaHR0cHM6Ly9ib29zdHkudG8vYWxla3N2ZXJzdXMiLAotICJEb25hdGUiOiAiaHR0cHM6Ly93d3cuZG9uYXRpb25hbGVydHMuY29tL3IvYWxla3N2ZXJzdXMiCgAAAAAAAAAAPgUAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAdAEAAAAAAABqBAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					5,
-					1,
-					"revert",
-					null,
-					"AgAAAAAAAAAAAAAAAAAAAAAAAAA+BQAAIyBRU1Atc3ludGF4IEhpZ2hMZ2h0aW5nIGZvciBPYnNpZGlhbgo8IS0tIGh0dHBzOi8vZG9jcy5vYnNpZGlhbi5tZC9QbHVnaW5zL0dldHRpbmcrc3RhcnRlZC9CdWlsZCthK3BsdWdpbiAtLT4KClRoaXMgcGx1Z2luIGJhc2VkIG9uIGZvcmsgb2YgW3NhbXBsZSBwbHVnaW5dKGh0dHBzOi8vZ2l0aHViLmNvbS9vYnNpZGlhbm1kL29ic2lkaWFuLXNhbXBsZS1wbHVnaW4pIGZvciBbT2JzaWRpYW5dKGh0dHBzOi8vb2JzaWRpYW4ubWQpIGFuZCBbbGVhbi1zeW50YXgtaGlnaGxpZ2h0Cl0oaHR0cHM6Ly9naXRodWIuY29tL3RvbWF6MTUwMi9sZWFuLXN5bnRheC1oaWdobGlnaHQvdHJlZS9tYWluP3RhYj1yZWFkbWUtb3YtZmlsZSkgYnkgdG9tYXoxNTAyLgoKU3RhbmQgdGhpcyBwbHVnaW4gaW50byB5b3VyIE9ic2lkaWFuIHN0b3JhZ2U6CgoxLiBGaW5kIGZvbGRlciBgLm9ic2lkaWFuYCBpbnRvIHlvdSBPYnNpZGlhbiBzdG9yYWdlIGZvbGRlci4KMi4gR28gdG8gZm9sZGVyIGBwbHVnaW5zYAozLiBFeHRyYWN0IGZvbGRlciBgcXNwLXN5bnRheC1vYnNpZGlhbmAgZnJvbSBbYXJjaF0oaHR0cHM6Ly9naXRodWIuY29tL0FsZWtzVmVyc3VzL3FzcC1zeW50YXgtb2JzaWRpYW4vcmVsZWFzZXMpIG9mIHRoaXMgcmVhbGVzZS4KNC4gTG9hZCBvciByZWxvYWQgT2JzaWRpYW4KNS4gUHJvdmUgc3ludGF4IHdvcmsgYnkgdGhpcyBmcmFnbWVudDoKCmBgYGAKYGBgcXNwCmxvY2FsICR0b3BfdGV4dCA9ICRhcmdzWzBdICYgISB0ZXh0IGZyb20gdG9wCmxvY2FsICRjb21tYW5kID0gJGlpZigkYXJnc1sxXTw+IiIsICRhcmdzWzFdLCAiKnBsIikgJiAhIGNvbW1hbmQgZm9yIHByaW50IHRleHQKbG9jYWwgJHNjcmVlbiA9ICRtaWQoJGFyZ3NbMV0sIDEsIDEpICYgISBmaXJzdCBzeW1ib2wgZnJvbSBjb21tYW5kCmxvY2FsICR0ZXh0ID0gIiIKaWYgJHNjcmVlbj0iKiI6CgkhIGlmIGZpc3Qgc3ltYm9sIGlzICoKCSEgbWFpbiBkZXNjcmlwdGlvbiB3b25kb3cKCSR0ZXh0PSRtYWludHh0CmVsc2UKCSEgYWRkaXRpb24gZGVzY3JpcHRpb24gd2luZG93CgkkdGV4dD0kc3RhdHR4dAplbmQKISB1c2UgZHluYW1pYyBmb3IgcnVuIGNvbW1hbmQ6CmR5bmFtaWMgIgoJPDwkc2NyZWVuPj5jbHIKCTw8JGNvbW1hbmQ+PiAkYXJnc1swXQoJPDwkc2NyZWVuPj5wICRhcmdzWzFdCiIsICR0b3BfdGV4dCwgJHRleHQKYGBgCmBgYGAKCi0gYXNrIG1lOiBhbGVrc3ZlcnN1c0BtYWlsLnJ1Ci0gIlN1YnNjcmliZSBteSBib29zdHkiOiAiaHR0cHM6Ly9ib29zdHkudG8vYWxla3N2ZXJzdXMiLAotICJEb25hdGUiOiAiaHR0cHM6Ly93d3cuZG9uYXRpb25hbGVydHMuY29tL3IvYWxla3N2ZXJzdXMiCgAAAAAAAAAAZwYAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAdAEAAAAAAABqBAAAAAAAAAAAAAAAAPC/"
-				]
 			]
+		},
+		{
+			"file": "/D/my/projects/github/obsidian-qsp-syntax-highlighter/styles.css",
+			"settings":
+			{
+				"buffer_size": 1408,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -587,10 +593,30 @@
 	},
 	"expanded_folders":
 	[
-		"/D/my/projects/qsp-syntax-obsidian"
+		"/D/my/projects/github/qsp-syntax-obsidian",
+		"/D/my/projects/github/obsidian-qsp-syntax-highlighter"
 	],
 	"file_history":
 	[
+		"/D/my/projects/github/obsidian-qsp-plugin/.obsidian/plugins/obsidian-syntax-qsp/styles.css",
+		"/D/my/projects/github/obsidian-qsp-syntax-highlighter/.github/workflows/release.yml",
+		"/D/my/projects/github/obsidian-qsp-syntax-highlighter/.github/FUNDING.yml",
+		"/D/my/projects/github/obsidian-qsp-plugin/.obsidian/plugins/obsidian-sample-plugin/styles.css",
+		"/D/my/projects/github/obsidian-qsp-syntax-highlighter/README.md",
+		"/D/my/projects/github/obsidian-qsp-syntax-highlighter/svelteHighlighter.ts",
+		"/D/my/projects/github/obsidian-qsp-syntax-highlighter/loadPrismWithSvelte.ts",
+		"/D/my/projects/github/obsidian-qsp-syntax-highlighter/main.ts",
+		"/D/my/projects/github/obsidian-qsp-syntax-highlighter/manifest.json",
+		"/D/my/projects/github/obsidian-qsp-syntax-highlighter/package-lock.json",
+		"/D/my/projects/github/obsidian-qsp-syntax-highlighter/package.json",
+		"/D/my/projects/github/obsidian-qsp-syntax-highlighter/git-filter-repo.py",
+		"/D/my/_библиотека_/мои тексты/конспекты/программирование/GIT/_res/git-filter-repo.py",
+		"/D/my/projects/github/obsidian-qsp-syntax-highlighter/tsconfig.json",
+		"/D/my/projects/github/qsp-syntax-obsidian/main.ts",
+		"/D/my/projects/github/obsidian-qsp-plugin/.obsidian/plugins/obsidian-sample-plugin/main.ts",
+		"/D/my/projects/github/qsp-syntax-obsidian/mode/qsp/qsp-syntax.js",
+		"/D/my/projects/github/obsidian-qsp-plugin/.obsidian/plugins/obsidian-sample-plugin/manifest.json",
+		"/D/my/projects/github/qsp-syntax-obsidian/README.md",
 		"/D/my/projects/qspfoundation-docs/blog/2024-08-03-syntax-highlighting.md",
 		"/D/my/projects/howdo_faq/blog/2024-08-03-qsp-highlighting-docusaurus.md",
 		"/D/my/projects/howdo_faq/.obsidian/plugins/obsidian-sample-plugin/styles.css",
@@ -699,43 +725,29 @@
 		"/D/my/projects/howdo_faq/docs/informarch/06_program/306_dejstvie_po_usloviju_0019.md",
 		"/D/my/projects/howdo_faq/docs/informarch/06_program/307_plavnoe_izmenenie_0020.md",
 		"/D/my/projects/howdo_faq/docs/informarch/06_program/308_otladchik_0021.md",
-		"/D/my/projects/howdo_faq/docs/informarch/06_program/309_tjanem_karty_iz_kollody_0022.md",
-		"/D/my/projects/howdo_faq/docs/informarch/07_updates/970_obnovlenie_do_5.7.0_0023.md",
-		"/D/my/projects/howdo_faq/docs/informarch/08_navigator/951_kak_podkljuchit__svoj_shrift_0033.md",
-		"/D/my/projects/howdo_faq/docs/informarch/08_navigator/954_nastrojka_shablona_0036.md",
-		"/D/my/projects/howdo_faq/docs/informarch/09_aeroqsp/981_aeroqsp_0024.md",
-		"/D/my/projects/howdo_faq/docs/informarch/09_aeroqsp/982_aeroqsp_instr_0025.md",
-		"/D/my/projects/howdo_faq/docs/informarch/09_aeroqsp/983_aeroqsp_help_0026.md",
-		"/D/my/projects/howdo_faq/docs/informarch/09_aeroqsp/984_standalone_aeroqsp_0027.md",
-		"/D/my/projects/howdo_faq/docs/informarch/10_review/990_obzory_qsp-compo_2010_0029.md",
-		"/D/my/projects/howdo_faq/docs/informarch/03_general/_category_.yml",
-		"/D/my/projects/howdo_faq/docs/informarch/04_extrqsp/_category_.yaml",
-		"/D/my/projects/howdo_faq/docs/informarch/03_arquest/_category_.yml",
-		"/D/my/projects/howdo_faq/docs/informarch/08_navigator/_category_.json",
-		"/D/my/projects/howdo_faq/docs/informarch/02_wii_qsp/_category_.json",
-		"/D/my/projects/howdo_faq/docs/informarch/build-project.json",
-		"/D/my/projects/howdo_faq/docs/informarch/014_rasprostranjaemaja_standalon_sborka_na_klassike_0031.md",
-		"/D/my/projects/howdo_faq/docs/informarch/lokalizatsija_qsp_0005.md",
-		"/D/my/projects/howdo_faq/docs/informarch/informarch.2024.01.19.fb2",
-		"/D/my/projects/howdo_faq/docs/informarch/102_preprotsessor_0012.md",
-		"/D/my/projects/howdo_faq/docs/informarch/021_avtomatnoe_programmirovanie_0009.md"
+		"/D/my/projects/howdo_faq/docs/informarch/06_program/309_tjanem_karty_iz_kollody_0022.md"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 46.0
 	},
 	"find_in_files":
 	{
 		"height": 205.0,
 		"where_history":
 		[
+			"D:\\my\\projects\\github\\obsidian-qsp-syntax-highlighter,<project filters>",
+			"D:\\my\\projects\\github\\qsp-syntax-obsidian-prism,<project filters>"
 		]
 	},
 	"find_state":
 	{
-		"case_sensitive": false,
+		"case_sensitive": true,
 		"find_history":
 		[
+			"svelte",
+			"Svelte",
+			"code\\.language\\-svelte"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -743,6 +755,8 @@
 		"regex": true,
 		"replace_history":
 		[
+			"qsp",
+			"Qsp"
 		],
 		"reverse": false,
 		"scrollbar_highlights": true,
@@ -759,27 +773,58 @@
 			[
 				{
 					"buffer": 0,
-					"file": "README.md",
-					"selected": true,
+					"file": "/D/my/projects/github/obsidian-qsp-syntax-highlighter/.github/workflows/release.yml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1639,
+						"buffer_size": 624,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								372,
-								1130
+								568,
+								568
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/my/projects/github/obsidian-qsp-syntax-highlighter/styles.css",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
 							"tab_size": 4,
-							"translate_tabs_to_spaces": false
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -794,7 +839,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 46.0
 	},
 	"input":
 	{
@@ -839,7 +884,7 @@
 	"project": "qsp-syntax-obsidian.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 88.0
 	},
 	"save_all_on_build": true,
 	"select_file":

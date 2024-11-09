@@ -2,7 +2,10 @@
 	"folders":
 	[
 		{
-			"path": "."
-		}
-	]
+			"path": ".",
+		},
+		{
+			"path": "D:\\my\\projects\\github\\obsidian-qsp-plugin",
+		},
+	],
 }
