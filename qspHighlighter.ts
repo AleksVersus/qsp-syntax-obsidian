@@ -32,7 +32,7 @@ export default class QspHighlight implements PluginValue {
         }
 
         const text = view.state.doc.toString(); // текст всего документа
-        const regex = /```qsp(?:[\s:!?.;,@%&(){}[\]<>*~]*)([\s\S]*?)\n```/gi // qsp code block
+        const regex = /```qsp(?:[\s:!?.;,@%&(){}[\]<>*~]*)([\s\S]*?)\n(>\s*)*?```/gi // qsp code block
 
         let match;
         while ((match = regex.exec(text)) !== null) {

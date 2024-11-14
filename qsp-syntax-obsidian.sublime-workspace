@@ -520,37 +520,15 @@
 	"buffers":
 	[
 		{
-			"file": "/D/my/projects/github/obsidian-qsp-syntax-highlighter/.github/workflows/release.yml",
-			"redo_stack":
-			[
-				[
-					3,
-					1,
-					"insert",
-					{
-						"characters": "20"
-					},
-					"AwAAAAEBAAAAAAAAAQEAAAAAAAABAAAAMAEBAAAAAAAAAwEAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAEAAAAy",
-					"AQAAAAAAAAABAAAAAgEAAAAAAAACAQAAAAAAAAAAAAAAAPC/"
-				]
-			],
+			"file": ".github/workflows/release.yml",
 			"settings":
 			{
 				"buffer_size": 624,
-				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			},
 			"undo_stack":
 			[
 			]
-		},
-		{
-			"file": "/D/my/projects/github/obsidian-qsp-syntax-highlighter/styles.css",
-			"settings":
-			{
-				"buffer_size": 1408,
-				"line_ending": "Unix"
-			}
 		}
 	],
 	"build_system": "",
@@ -594,15 +572,30 @@
 	"expanded_folders":
 	[
 		"/D/my/projects/github/qsp-syntax-obsidian",
-		"/D/my/projects/github/obsidian-qsp-syntax-highlighter"
+		"/D/my/projects/github/qsp-syntax-obsidian/.github",
+		"/D/my/projects/github/qsp-syntax-obsidian/.github/workflows"
 	],
 	"file_history":
 	[
-		"/D/my/projects/github/obsidian-qsp-plugin/.obsidian/plugins/obsidian-syntax-qsp/styles.css",
+		"/D/my/GameDev/QuestSoftPlayer/games/формулы.md",
+		"/D/my/GameDev/QuestSoftPlayer/games/Дневник разработчика.txt-light",
+		"/D/my/GameDev/QuestSoftPlayer/games/чудесные вещи и явления описанные в текстах классиков.txt",
+		"/D/my/GameDev/QuestSoftPlayer/games/формулы.txt-light",
+		"/D/my/GameDev/QuestSoftPlayer/games/Мир Толуза/вступление.txt",
+		"/D/my/GameDev/QuestSoftPlayer/games/Мир Толуза/забытое королевство.txt",
+		"/C/Users/aleks/Desktop/pi/new.tags.txt-light",
+		"/D/my/projects/github/qsp-syntax-obsidian/manifest.json",
+		"/D/my/projects/github/qsp-syntax-obsidian/README_RU.md",
+		"/D/my/projects/github/qsp-syntax-obsidian/README.md",
+		"/D/my/projects/github/obsidian-qsp-syntax-highlighter/README.md",
+		"/D/my/projects/github/qsp-syntax-obsidian/versions.json",
+		"/D/my/projects/github/qsp-syntax-obsidian/LICENSE",
+		"/D/my/projects/github/qsp-syntax-obsidian/package.json",
+		"/D/my/projects/github/qsp-syntax-obsidian/main.ts",
 		"/D/my/projects/github/obsidian-qsp-syntax-highlighter/.github/workflows/release.yml",
+		"/D/my/projects/github/obsidian-qsp-plugin/.obsidian/plugins/obsidian-syntax-qsp/styles.css",
 		"/D/my/projects/github/obsidian-qsp-syntax-highlighter/.github/FUNDING.yml",
 		"/D/my/projects/github/obsidian-qsp-plugin/.obsidian/plugins/obsidian-sample-plugin/styles.css",
-		"/D/my/projects/github/obsidian-qsp-syntax-highlighter/README.md",
 		"/D/my/projects/github/obsidian-qsp-syntax-highlighter/svelteHighlighter.ts",
 		"/D/my/projects/github/obsidian-qsp-syntax-highlighter/loadPrismWithSvelte.ts",
 		"/D/my/projects/github/obsidian-qsp-syntax-highlighter/main.ts",
@@ -612,11 +605,9 @@
 		"/D/my/projects/github/obsidian-qsp-syntax-highlighter/git-filter-repo.py",
 		"/D/my/_библиотека_/мои тексты/конспекты/программирование/GIT/_res/git-filter-repo.py",
 		"/D/my/projects/github/obsidian-qsp-syntax-highlighter/tsconfig.json",
-		"/D/my/projects/github/qsp-syntax-obsidian/main.ts",
 		"/D/my/projects/github/obsidian-qsp-plugin/.obsidian/plugins/obsidian-sample-plugin/main.ts",
 		"/D/my/projects/github/qsp-syntax-obsidian/mode/qsp/qsp-syntax.js",
 		"/D/my/projects/github/obsidian-qsp-plugin/.obsidian/plugins/obsidian-sample-plugin/manifest.json",
-		"/D/my/projects/github/qsp-syntax-obsidian/README.md",
 		"/D/my/projects/qspfoundation-docs/blog/2024-08-03-syntax-highlighting.md",
 		"/D/my/projects/howdo_faq/blog/2024-08-03-qsp-highlighting-docusaurus.md",
 		"/D/my/projects/howdo_faq/.obsidian/plugins/obsidian-sample-plugin/styles.css",
@@ -713,23 +704,11 @@
 		"/D/my/projects/howdo_faq/docs/informarch/03_general/010_uchebnik_po_qsp_dlja_redaktora_qgen_0004.md",
 		"/D/my/projects/howdo_faq/docs/informarch/03_general/012_analizator_koda_qsp_0006.md",
 		"/D/my/projects/howdo_faq/docs/informarch/03_general/014_rasprostranjaemaja_standalon_sborka_na_klassike_0031.md",
-		"/D/my/projects/howdo_faq/docs/informarch/02_wii_qsp/003_nash_put.md",
-		"/D/my/projects/howdo_faq/docs/informarch/04_extrqsp/021_avtomatnoe_programmirovanie_0009.md",
-		"/D/my/projects/howdo_faq/docs/informarch/05_txtgam/100_txt2gam_help_0010.md",
-		"/D/my/projects/howdo_faq/docs/informarch/05_txtgam/101_rabota_v_tekstovom_redaktore_0011.md",
-		"/D/my/projects/howdo_faq/docs/informarch/05_txtgam/102_preprotsessor_0012.md",
-		"/D/my/projects/howdo_faq/docs/informarch/06_program/301_kalendar__po_metodu_schiota_julianskih_dnej_0014.md",
-		"/D/my/projects/howdo_faq/docs/informarch/06_program/303_gibkij_plejlist_0016.md",
-		"/D/my/projects/howdo_faq/docs/informarch/06_program/304_ispol_zovanie_massivov_0017.md",
-		"/D/my/projects/howdo_faq/docs/informarch/06_program/305_dopolnenie_inventarja_0018.md",
-		"/D/my/projects/howdo_faq/docs/informarch/06_program/306_dejstvie_po_usloviju_0019.md",
-		"/D/my/projects/howdo_faq/docs/informarch/06_program/307_plavnoe_izmenenie_0020.md",
-		"/D/my/projects/howdo_faq/docs/informarch/06_program/308_otladchik_0021.md",
-		"/D/my/projects/howdo_faq/docs/informarch/06_program/309_tjanem_karty_iz_kollody_0022.md"
+		"/D/my/projects/howdo_faq/docs/informarch/02_wii_qsp/003_nash_put.md"
 	],
 	"find":
 	{
-		"height": 46.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -745,6 +724,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"md",
 			"svelte",
 			"Svelte",
 			"code\\.language\\-svelte"
@@ -773,8 +753,9 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/D/my/projects/github/obsidian-qsp-syntax-highlighter/.github/workflows/release.yml",
-					"semi_transient": false,
+					"file": ".github/workflows/release.yml",
+					"selected": true,
+					"semi_transient": true,
 					"settings":
 					{
 						"buffer_size": 624,
@@ -784,46 +765,14 @@
 						"selection":
 						[
 							[
-								568,
-								568
+								624,
+								0
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/YAML/YAML.sublime-syntax",
 							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/D/my/projects/github/obsidian-qsp-syntax-highlighter/styles.css",
-					"selected": true,
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 1408,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -839,7 +788,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 46.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -884,7 +833,7 @@
 	"project": "qsp-syntax-obsidian.sublime-project",
 	"replace":
 	{
-		"height": 88.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
