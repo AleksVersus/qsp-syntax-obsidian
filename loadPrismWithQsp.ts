@@ -2,11 +2,11 @@
 import { loadPrism } from "obsidian";
 
 const applyPrismQsp = (Prism: any) => {
-    const kw_operators = '\\b(act|addobj|cla|close|all|cls|cmdclear|copyarr|delact|delobj|dynamic|exit|gosub|goto|if|else|elseif|inclib|jump|killall|killobj|freelib|killvar|let|local|loop|menu|msg|opengame|openqst|play|refint|savegame|scanstr|set|settimer|showacts|showinput|showobjs|showstat|sortarr|unselect|view|wait|xgoto|addqst|killqst|unsel|cmdclr|gt|xgt|gs|exec)\\b'  
+    const kw_operators = '\\b(act|addobj|cla|close|all|cls|cmdclear|copyarr|delact|delobj|dynamic|exit|gosub|goto|if|else|elseif|inclib|jump|killall|killobj|freelib|killvar|let|local|loop|menu|msg|opengame|openqst|play|refint|savegame|scanstr|set|settimer|showacts|showinput|showobjs|showstat|sortarr|unselect|view|wait|xgoto|addqst|killqst|unsel|cmdclr|gt|xgt|gs|exec)\\b'
     const kw_controls = '\\b(act|if|elseif|else|loop|while|step|end)\\b'
     const kw_text_operators = '\\*?\\b(pl?|nl|clr|clear)\\b'
 
-    const functions_string = '\\$(desc|user_text|usrtxt|maintxt|stattxt|curloc|selobj|selact|mid|(u|l)case|trim|replace|str|strfind|input|qspver|curacts|getobj|iif|dyneval|func|max|min|arritem)\\b'
+    const functions_string = '\\$(desc|user_text|usrtxt|maintxt|stattxt|curloc|selobj|selact|mid|(u|l)case|trim|replace|str|strfind|input|qspver|curacts|curobjs|getobj|iif|dyneval|func|max|min|arritem)\\b'
     const functions_num = '\\b(loc|obj|isnum|isplay|len|val|instr|strcomp|strpos|arrsize|arrpos|arrcomp|msecscount|rgb|countobj|ra?nd|iif|dyneval|func|max|min|arritem)\\b'
 
     const system_vars_string = '\\$(counter|ongload|ongsave|onnewloc|onactsel|onobjsel|onobjadd|onobjdel|usercom|fname|backimage|args|result)\\b'
@@ -14,18 +14,18 @@ const applyPrismQsp = (Prism: any) => {
 
     Prism.languages.qsp = {
         'comment': {
-            pattern: /((^\s*?)|(\&\s*?))(![^\n{'"]*$)/m,
+            pattern: /((^\s*?)|(\&\s*?)|(\:\s*?))(![^\n{'"]*$)/m,
             lookbehind: true,
             greedy: true,
         },
         'braced-comment': {
-            pattern: /((^\s*?)|(\&\s*?))(![^\n{'"]*\{[^\}]*\}.*?$)/m,
+            pattern: /((^\s*?)|(\&\s*?)|(\:\s*?))(![^\n{'"]*\{[^\}]*\}.*?$)/m,
             alias: 'comment',
             lookbehind: true,
             greedy: true,
         },
         'quoted-comment': {
-            pattern: /((^\s*?)|(\&\s*?))((![^\n{'"]*"[^"]*".*?$)|(![^'\n\r]*'[^']*?'.*?$))/m,
+            pattern: /((^\s*?)|(\&\s*?)|(\:\s*?))((![^\n{'"]*"[^"]*".*?$)|(![^'\n\r]*'[^']*?'.*?$))/m,
             alias: 'comment',
             lookbehind: true,
             greedy: true,
