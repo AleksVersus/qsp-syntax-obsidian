@@ -41,6 +41,10 @@ dynamic "
 ```
 ````
 
+![qsp_code_1.png](_disdocs/_assets/qsp_code_1.png)
+
+![qsp_code_2.png](_disdocs/_assets/qsp_code_2.png)
+
 ## Supported highlighting
 
 - Ordinary and multiline comments, including comments after `:` and note text following `END`.

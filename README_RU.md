@@ -41,6 +41,10 @@ dynamic "
 ```
 ````
 
+![qsp_code_1.png](_disdocs/_assets/qsp_code_1.png)
+
+![qsp_code_2.png](_disdocs/_assets/qsp_code_2.png)
+
 ## Поддерживаемая подсветка
 
 - Обычные и многострочные комментарии, включая комментарии после `:` и поясняющий текст после `END`.
